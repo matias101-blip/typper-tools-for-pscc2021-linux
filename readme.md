@@ -14,7 +14,7 @@ Solo me encargue de adaptar para que se instale el plug en el wine prefix donde 
    
    
 
-No pude comprender com hacer para que los archivos se creen y se copien a la carpeta del plug, asi que las que estan del repo las saque de una instalacion de windows.
+No pude comprender como hacer para que los archivos se creen y se copien a la carpeta del plug, asi que las que estan del repo las saque de una instalacion de windows.
 
 En fín esto son los pasos para usar el script.
 

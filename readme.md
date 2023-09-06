@@ -21,7 +21,7 @@ En fín esto son los pasos para usar el script.
 ### Instalación,
 
 ```bash
-#Damos los premiso para que se pueda ejecutar el script sin problema.
+#Damos los permisos para que se pueda ejecutar el script sin problema.
 chmod +x install.sh
 ```
 
